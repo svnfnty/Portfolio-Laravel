@@ -12,7 +12,7 @@ A modern, professional portfoli website built with Laravel for showcasing develo
 
 - ✅ **Full Laravel MVC Architecture**
 - ✅ **Responsive Design** (Mobile & Desktop)
-- ✅ **Projects Showcase** with filtering
+- ✅ **Projects Showcase** with filteri
 - ✅ **Skills Section** with categories
 - ✅ **Contact Form** with email notification
 - ✅ **SEO Optimized**
