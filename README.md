@@ -8,7 +8,7 @@
 
 A modern, professional portfoli website built with Laravel for showcasing development projects and skills.
 
-## ✨ Features
+## ✨ Feature
 
 - ✅ **Full Laravel MVC Architecture**
 - ✅ **Responsive Design** (Mobile & Desktop)
